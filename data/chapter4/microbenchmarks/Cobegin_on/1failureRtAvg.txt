@@ -1,0 +1,6 @@
+test	"1 Failure"	"1 Failure(max)"	"1 Failure(min)"
+simpleons	43.1702	43.614	42.88
+simpleontest	43.2073	43.657	42.943
+back	43.0695	43.363	42.789
+threeon	54.0395	80.353	42.636
+twotwoon	87.649	137.659	55.626

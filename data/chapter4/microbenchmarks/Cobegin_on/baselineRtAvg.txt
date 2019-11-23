@@ -1,0 +1,6 @@
+test	Baseline	Baseline(max)	Baseline(min)
+simpleons	42.6457	42.756	42.423
+simpleontest	42.6608	43.189	42.563
+back	43.0582	43.5	42.962
+threeon	43.2372	45.459	42.917
+twotwoon	43.032	43.737	42.701
